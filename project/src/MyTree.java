@@ -9,6 +9,7 @@ import tree.MyNode;
  * @see MyNode
  * Artur
  * conflict2
+ * long transaction
  */
 public class MyTree {
   private MyNode root;
