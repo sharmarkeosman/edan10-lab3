@@ -8,6 +8,7 @@ package tree;
  * strict long transaction 
  * strict long transaction 2
  * added
+ * a
  */
 public class MyNode {
   private MyNode father;
