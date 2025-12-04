@@ -4,7 +4,8 @@ import tree.MyNode;
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
- * Mj was here
+ * Mj was here 
+ * Mj left
  * @author Torbjorn Ekman
  * @see MyNode
  * Artur
