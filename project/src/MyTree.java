@@ -6,6 +6,7 @@ import tree.MyNode;
  * This is a binary search tree. The tree holds integer valued nodes.
  * Mj was here 
  * Mj left
+ * Mj came back
  * @author Torbjorn Ekman
  * @see MyNode
  * Artur
