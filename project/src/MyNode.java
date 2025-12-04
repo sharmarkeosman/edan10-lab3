@@ -5,6 +5,7 @@ package tree;
  * Mj was here
  * @author Torbjorn Ekman
  * @see MyTree
+ * strict long transaction 
  */
 public class MyNode {
   private MyNode father;
